@@ -89,17 +89,17 @@ O ODIN faz parte do ecossistema da **ASGARD Tecnologia**.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/jormungandr_dark.svg"
+    srcset="https://raw.githubusercontent.com/GustavoPopper/GustavoPopper/output/jormungandr_dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/jormungandr.svg"
+    srcset="https://raw.githubusercontent.com/GustavoPopper/GustavoPopper/output/jormungandr.svg"
   />
 
   <img
     alt="Jörmungandr percorrendo as contribuições de Gustavo"
-    src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/jormungandr.svg"
+    src="https://raw.githubusercontent.com/GustavoPopper/GustavoPopper/output/jormungandr.svg"
   />
 </picture>
 
