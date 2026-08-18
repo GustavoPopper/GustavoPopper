@@ -3,15 +3,15 @@
 # Olá, eu sou Gustavo Pöpper 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Analista+de+Sistemas+e+Consultor+ERP;Oracle+SQL+%7C+ServiceNow+%7C+ITIL+4;React+%7C+TypeScript+%7C+GitHub+Actions;Criador+do+ODIN+e+da+ASGARD+Tecnologia"
-  alt="Apresentação animada"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Analista+de+Sistemas"
+  alt="Analista de Sistemas"
 />
 
 </div>
 
 ## Sobre mim
 
-Sou profissional de tecnologia com mais de cinco anos de experiência em
+Sou profissional de tecnologia com anos de experiência em
 suporte técnico, sistemas empresariais, análise de incidentes e resolução
 de problemas.
 
@@ -82,10 +82,25 @@ O ODIN faz parte do ecossistema da **ASGARD Tecnologia**.
 | Dados | Indicadores, dashboards, Excel e Power BI |
 | DevOps | Git, Pull Requests, CI/CD e GitHub Actions |
 
-## Atualmente
+## 🐍 JÖRMUNGANDR — Trilha de Contribuições
 
-```text
-> Construindo o ODIN
-> Estruturando a ASGARD Tecnologia
-> Evoluindo em React, TypeScript e DevOps
-> Transformando problemas operacionais em soluções
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/jormungandr_dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/jormungandr.svg"
+  />
+
+  <img
+    alt="Jörmungandr percorrendo as contribuições de Gustavo"
+    src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/jormungandr.svg"
+  />
+</picture>
+
+</div>
