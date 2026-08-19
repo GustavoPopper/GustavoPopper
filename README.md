@@ -7,6 +7,15 @@
   alt="Analista de Sistemas"
 />
 
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1100&color=00FF22&center=true&vCenter=true&width=800&height=50&lines=%24+npm+run+life;Erro%3A+work-life+balance+nao+encontrado;%24+npm+install+coffee;Construindo+o+ODIN...;Funciona+na+minha+maquina;Deploy+na+sexta%3F+Nem+Odin+aprova."
+  alt="Terminal animado do desenvolvedor"
+/>
+
+</div>
+
 </div>
 
 ## Sobre mim
@@ -147,15 +156,5 @@ Service Pack: odin-v1000.004
     src="https://raw.githubusercontent.com/GustavoPopper/GustavoPopper/output/jormungandr.svg"
   />
 </picture>
-
-</div>
-
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1100&color=00FF22&center=true&vCenter=true&width=800&height=50&lines=%24+npm+run+life;Erro%3A+work-life+balance+nao+encontrado;%24+npm+install+coffee;Construindo+o+ODIN...;Funciona+na+minha+maquina;Deploy+na+sexta%3F+Nem+Odin+aprova."
-  alt="Terminal animado do desenvolvedor"
-/>
 
 </div>
