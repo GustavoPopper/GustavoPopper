@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Gustavo Pöpper 👋
+# Olá, eu sou Gustavo Pöpper
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Analista+de+Sistemas"
