@@ -50,23 +50,29 @@ O ODIN faz parte do ecossistema da **ASGARD Tecnologia**.
 
 [Conhecer o ODIN](https://github.com/GustavoPopper/ODIN)
 
-## 🤖 Floki — Guardião das Automações
+## Floki — Guardião das Automações
 
 <div align="center">
 
-![FlokiOdin](https://img.shields.io/badge/GitHub_App-FlokiOdin-111827?style=for-the-badge&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Ativo-16A34A?style=for-the-badge)
-![Automação](https://img.shields.io/badge/Automação-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<img
+  src="https://raw.githubusercontent.com/GustavoPopper/GustavoPopper/main/ASSETS/floki_avatar.png"
+  alt="FlokiOdin, bot de automações do projeto ODIN"
+  width="190"
+/>
+
+### FlokiOdin
+
+*Identidade responsável pelas automações do ecossistema ODIN.*
 
 </div>
 
 O **FlokiOdin**, chamado simplesmente de **Floki**, é o GitHub App responsável
-pela identidade e execução segura das principais automações do ecossistema ODIN.
+pela identidade e execução segura das principais automações do ODIN.
 
-Seu nome foi inspirado em **Floki**, o construtor de navios e navegador da série
-*Vikings*. Assim como o personagem projetava embarcações e encontrava novos
-caminhos, o bot constrói e conduz os fluxos de integração, versionamento e
-publicação do projeto.
+Seu nome foi inspirado em Floki, o construtor de navios e navegador da série
+*Vikings*. Assim como o personagem construía embarcações e encontrava novos
+caminhos, o Floki conduz os fluxos de integração, versionamento e publicação
+do projeto.
 
 ### Responsabilidades atuais
 
@@ -75,12 +81,10 @@ publicação do projeto.
 - Publicar Service Packs após merges na `main`;
 - Atualizar automaticamente a versão exibida pela aplicação;
 - Autenticar os workflows com uma identidade própria;
-- Registrar sua autoria nos processos automatizados;
 - Preservar a rastreabilidade entre Pull Requests, commits, tags e versões.
 
 ### Fluxo de versionamento
 
-```text
 Branch de desenvolvimento
           ↓
         develop
