@@ -39,6 +39,38 @@ DevOps.
 - 📊 Interesse em indicadores, dados e inteligência operacional
 - 🚀 Desenvolvendo o ecossistema ODIN
 
+## Tecnologias e ferramentas
+
+<div align="center">
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=databricks&logoColor=22D3EE)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL_4-2563EB?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Power BI](https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+
+</div>
+
+## Áreas de experiência
+
+| Área | Conhecimentos |
+|---|---|
+| Banco de dados | Oracle, SQL, PL/SQL e análise de desempenho |
+| Sistemas empresariais | ERP, EMR, implantação e sustentação |
+| Gestão de serviços | ITIL 4, incidentes, problemas e melhoria contínua |
+| Plataformas | ServiceNow, GitHub e Azure DevOps |
+| Desenvolvimento | React, TypeScript, JavaScript, HTML e CSS |
+| Dados | Indicadores, dashboards, Excel e Power BI |
+| DevOps | Git, Pull Requests, CI/CD e GitHub Actions |
+
 ## Projeto em destaque
 
 ### ⚡ ODIN
@@ -103,38 +135,6 @@ Release interna: odin-r1000.003.001
           main
           ↓
 Service Pack: odin-v1000.004
-
-## Tecnologias e ferramentas
-
-<div align="center">
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=databricks&logoColor=22D3EE)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL_4-2563EB?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Power BI](https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-
-</div>
-
-## Áreas de experiência
-
-| Área | Conhecimentos |
-|---|---|
-| Banco de dados | Oracle, SQL, PL/SQL e análise de desempenho |
-| Sistemas empresariais | ERP, EMR, implantação e sustentação |
-| Gestão de serviços | ITIL 4, incidentes, problemas e melhoria contínua |
-| Plataformas | ServiceNow, GitHub e Azure DevOps |
-| Desenvolvimento | React, TypeScript, JavaScript, HTML e CSS |
-| Dados | Indicadores, dashboards, Excel e Power BI |
-| DevOps | Git, Pull Requests, CI/CD e GitHub Actions |
 
 ## 🐍 JÖRMUNGANDR — Trilha de Contribuições
 
