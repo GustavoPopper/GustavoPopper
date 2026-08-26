@@ -5,48 +5,41 @@
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Analista+de+Sistemas"
   alt="Analista de Sistemas"
-  />
+/>
 
-  <img
+<img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1100&color=00FF22&center=true&vCenter=true&width=800&height=50&lines=%24+npm+run+life;Erro%3A+work-life+balance+nao+encontrado;%24+npm+install+coffee;Construindo+o+ODIN...;Funciona+na+minha+maquina;Deploy+na+sexta%3F+Nem+Odin+aprova."
   alt="Terminal animado do desenvolvedor"
 />
-
-
-<div align="center">
-
-
-
-</div>
 
 </div>
 
 ## Sobre mim
 
-Sou profissional de tecnologia com anos de experiência em
-suporte técnico, sistemas empresariais, análise de incidentes e resolução
-de problemas.
+Sou profissional de tecnologia com experiência em suporte técnico, sistemas
+empresariais, análise de incidentes e resolução de problemas.
 
-Atuo com ambientes ERP, banco de dados Oracle, SQL, integrações, análise
-de código e melhoria contínua de processos. Também possuo experiência com
+Atuo com ambientes ERP, banco de dados Oracle, SQL, integrações, análise de
+código e melhoria contínua de processos. Também possuo experiência com
 ServiceNow, gestão de serviços e aplicação das práticas do ITIL® 4.
 
-Atualmente, estou expandindo minha atuação para o desenvolvimento de
-aplicações modernas com React, TypeScript, Tailwind CSS e práticas de
-DevOps.
+Atualmente, estou ampliando minha atuação no desenvolvimento de aplicações web
+modernas, trabalhando com React, TypeScript, Node.js, PostgreSQL, Tailwind CSS,
+automação de processos e práticas de DevOps.
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🏅 Certificado ITIL® 4 Foundation
-- 🗄️ Experiência com Oracle SQL e sistemas ERP
+- 🗄️ Experiência com Oracle SQL, PL/SQL e sistemas ERP
 - ⚙️ Atuação com incidentes, problemas e sustentação de sistemas
 - 📊 Interesse em indicadores, dados e inteligência operacional
-- 🚀 Desenvolvendo o ecossistema ODIN
+- 🚀 Criador e desenvolvedor do ecossistema ODIN
 
 ## Tecnologias e ferramentas
 
 <div align="center">
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![SQL](https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=databricks&logoColor=22D3EE)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL_4-2563EB?style=for-the-badge&logoColor=white)
@@ -56,6 +49,8 @@ DevOps.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
 ![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Fastify](https://img.shields.io/badge/Fastify-111827?style=for-the-badge&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Power BI](https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811)
@@ -66,35 +61,86 @@ DevOps.
 
 | Área | Conhecimentos |
 |---|---|
-| Banco de dados | Oracle, SQL, PL/SQL e análise de desempenho |
+| Banco de dados | Oracle, PostgreSQL, SQL, PL/SQL e análise de desempenho |
 | Sistemas empresariais | ERP, EMR, implantação e sustentação |
 | Gestão de serviços | ITIL 4, incidentes, problemas e melhoria contínua |
 | Plataformas | ServiceNow, GitHub e Azure DevOps |
-| Desenvolvimento | React, TypeScript, JavaScript, HTML e CSS |
-| Dados | Indicadores, dashboards, Excel e Power BI |
+| Desenvolvimento | React, TypeScript, JavaScript, Node.js, HTML e CSS |
+| Dados | Indicadores, dashboards, Excel, CSV e Power BI |
 | DevOps | Git, Pull Requests, CI/CD e GitHub Actions |
 
 ## Projeto em destaque
 
-### ⚡ ODIN
+### ⚡ ODIN — Inteligência operacional
 
-O **ODIN** é uma plataforma de inteligência operacional desenvolvida para
-transformar dados dispersos em informações claras e acionáveis.
+O **ODIN** é uma plataforma de inteligência operacional criada para transformar
+dados dispersos em indicadores claros, centralizados e acionáveis.
 
-A plataforma está sendo construída como uma mesa de comando para apoiar
-gestores no acompanhamento de indicadores, SLAs, tickets, produtividade,
-alertas e desempenho operacional.
+O projeto funciona como uma mesa de comando para gestores: importa dados,
+aplica regras de cálculo, apresenta resultados em diferentes formatos visuais e
+organiza informações relevantes para apoiar decisões operacionais.
 
-Seus primeiros módulos são:
+### Principais recursos
 
-- **HUGIN:** visão atual e centralizada da operação
-- **MUNIN:** memória, histórico e inteligência analítica
+- importação e análise de fontes de dados em Excel e CSV;
+- criação de indicadores personalizados a partir das colunas importadas;
+- configuração de cálculos, filtros, metas, faixas e direção esperada;
+- biblioteca evolutiva de métricas como SLA, CSAT, NPS, backlog, volume,
+  contagem, média e tempo de atendimento;
+- apresentação em cards, gauges, gráficos, tabelas e outros formatos visuais;
+- prévia responsiva do indicador durante a configuração;
+- separação entre regra de cálculo, indicador e representação visual;
+- autenticação por sessão, perfis, planos e permissões por recurso;
+- dashboards personalizáveis e layouts por usuário em evolução.
+
+### Arquitetura funcional
+
+| Componente | Responsabilidade |
+|---|---|
+| **HUGIN** | Visão atual da operação, indicadores, fontes de dados e dashboards |
+| **MUNIN** | Memória, histórico e inteligência analítica da plataforma |
+| **Ratatoskr** | Mensageiro e assistente virtual do ecossistema ODIN |
+| **Floki** | Identidade responsável pelas automações, versões e publicações |
+
+### Fluxo dos dados
+
+```text
+Fonte de dados → Conjunto de dados → Regra de cálculo → Indicador → Visualização → Dashboard
+```
+
+### Tecnologias do projeto
+
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `Fastify` ·
+`Prisma` · `PostgreSQL` · `GitHub Actions`
 
 O ODIN faz parte do ecossistema da **ASGARD Tecnologia**.
 
 [Conhecer o ODIN](https://github.com/GustavoPopper/ODIN)
 
-## Floki — Guardião das Automações
+## 🐿️ Ratatoskr — O mensageiro do ODIN
+
+O **Ratatoskr** é a identidade do assistente virtual do ODIN. Inspirado no
+mensageiro que percorre Yggdrasil na mitologia nórdica, ele foi concebido para
+conectar usuários, módulos, documentação e conhecimento dentro da plataforma.
+
+Atualmente, sua identidade visual e sua presença na interface fazem parte do
+ecossistema. Sua evolução planejada inclui:
+
+- orientar usuários sobre recursos e fluxos da plataforma;
+- explicar indicadores, dashboards e os módulos Hugin e Munin;
+- consultar uma base de conhecimento formada pela documentação do ODIN;
+- oferecer respostas diferentes conforme perfil e permissões do usuário;
+- auxiliar a equipe ASGARD na localização de arquivos e padrões técnicos;
+- apoiar a geração de documentação, commits e Pull Requests;
+- manter o acesso ao código-fonte inicialmente em modo somente leitura;
+- apresentar as fontes e versões utilizadas em suas respostas.
+
+O Ratatoskr está sendo projetado com integração pelo backend, separação de
+permissões e proteção das informações internas do projeto.
+
+> **Ratatoskr — o mensageiro do ODIN.**
+
+## ⚙️ Floki — Guardião das automações
 
 <div align="center">
 
@@ -115,31 +161,33 @@ pela identidade e execução segura das principais automações do ODIN.
 
 Seu nome foi inspirado em Floki, o construtor de navios e navegador da série
 *Vikings*. Assim como o personagem construía embarcações e encontrava novos
-caminhos, o Floki conduz os fluxos de integração, versionamento e publicação
-do projeto.
+caminhos, o Floki conduz os fluxos de integração, versionamento e publicação do
+projeto.
 
 ### Responsabilidades atuais
 
-- Registrar Releases internas após merges na `develop`;
-- Criar tags sequenciais de Release;
-- Publicar Service Packs após merges na `main`;
-- Atualizar automaticamente a versão exibida pela aplicação;
-- Autenticar os workflows com uma identidade própria;
-- Preservar a rastreabilidade entre Pull Requests, commits, tags e versões.
+- registrar Releases internas após merges na `develop`;
+- criar tags sequenciais de Release;
+- publicar Service Packs após merges na `main`;
+- atualizar automaticamente a versão exibida pela aplicação;
+- autenticar os workflows com uma identidade própria;
+- preservar a rastreabilidade entre Pull Requests, commits, tags e versões.
 
 ### Fluxo de versionamento
 
+```text
 Branch de desenvolvimento
           ↓
-        develop
+       develop
           ↓
 Release interna: odin-r1000.003.001
           ↓
-          main
+         main
           ↓
 Service Pack: odin-v1000.004
+```
 
-## 🐍 JÖRMUNGANDR — Trilha de Contribuições
+## 🐍 JÖRMUNGANDR — Trilha de contribuições
 
 <div align="center">
 
