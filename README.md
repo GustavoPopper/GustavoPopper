@@ -191,7 +191,7 @@ O CLUTCH integra o portfólio de projetos da **ASGARD Tecnologia** e é desenvol
 como um projeto independente e **sem fins lucrativos**, criado como homenagem ao
 Counter-Strike e à sua comunidade.
 
-[Conhecer o CLUTCH](https://github.com/GustavoPopper/clutch)
+[Conhecer o CLUTCH](https://clutch-51db.onrender.com/)
 
 ## 🐿️ Ratatoskr — O mensageiro do ODIN
 
