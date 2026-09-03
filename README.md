@@ -54,7 +54,7 @@ automação e experiências interativas.
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
 ![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Fastify](https://img.shields.io/badge/Fastify-111827?style=for-the-badge&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
@@ -65,16 +65,16 @@ automação e experiências interativas.
 
 ## Áreas de experiência
 
-| Área                  | Conhecimentos                                                                      |
-| --------------------- | ---------------------------------------------------------------------------------- |
-| Banco de dados        | Oracle, PostgreSQL, SQL, PL/SQL e análise de desempenho                            |
-| Sistemas empresariais | ERP, EMR, implantação e sustentação                                                |
-| Gestão de serviços    | ITIL 4, incidentes, problemas e melhoria contínua                                  |
-| Plataformas           | ServiceNow, GitHub e Azure DevOps                                                  |
-| Desenvolvimento       | React, TypeScript, JavaScript, Node.js, HTML e CSS                                 |
-| Dados                 | Indicadores, dashboards, Excel, CSV e Power BI                                     |
-| DevOps                | Git, Pull Requests, CI/CD e GitHub Actions                                         |
-| Produtos digitais     | Arquitetura de aplicações, simulação, regras de negócio e experiência mobile-first |
+| Área | Conhecimentos |
+|---|---|
+| Banco de dados | Oracle, PostgreSQL, SQL, PL/SQL e análise de desempenho |
+| Sistemas empresariais | ERP, EMR, implantação e sustentação |
+| Gestão de serviços | ITIL 4, incidentes, problemas e melhoria contínua |
+| Plataformas | ServiceNow, GitHub e Azure DevOps |
+| Desenvolvimento | React, TypeScript, JavaScript, Node.js, HTML e CSS |
+| Dados | Indicadores, dashboards, Excel, CSV e Power BI |
+| DevOps | Git, Pull Requests, CI/CD e GitHub Actions |
+| Produtos digitais | Arquitetura de aplicações, simulação, regras de negócio e experiência mobile-first |
 
 ## Projetos em destaque
 
@@ -102,12 +102,12 @@ organiza informações relevantes para apoiar decisões operacionais.
 
 ### Arquitetura funcional
 
-| Componente    | Responsabilidade                                                   |
-| ------------- | ------------------------------------------------------------------ |
-| **HUGIN**     | Visão atual da operação, indicadores, fontes de dados e dashboards |
-| **MUNIN**     | Memória, histórico e inteligência analítica da plataforma          |
-| **Ratatoskr** | Mensageiro e assistente virtual do ecossistema ODIN                |
-| **Floki**     | Identidade responsável pelas automações, versões e publicações     |
+| Componente | Responsabilidade |
+|---|---|
+| **HUGIN** | Visão atual da operação, indicadores, fontes de dados e dashboards |
+| **MUNIN** | Memória, histórico e inteligência analítica da plataforma |
+| **Ratatoskr** | Mensageiro e assistente virtual do ecossistema ODIN |
+| **Floki** | Identidade responsável pelas automações, versões e publicações |
 
 ### Fluxo dos dados
 
@@ -117,8 +117,19 @@ Fonte de dados → Conjunto de dados → Regra de cálculo → Indicador → Vis
 
 ### Tecnologias do projeto
 
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `Fastify` ·
-`Prisma` · `PostgreSQL` · `GitHub Actions`
+<div align="center">
+
+![React](https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 O ODIN faz parte do ecossistema da **ASGARD Tecnologia**.
 
@@ -155,17 +166,26 @@ de simulação, balanceamento, persistência local e experiências mobile-first.
 
 ### Conceitos trabalhados no projeto
 
-| Área                      | Aplicação no CLUTCH                                                                |
-| ------------------------- | ---------------------------------------------------------------------------------- |
-| **Simulação**             | Resultados, temporadas, rankings, transferências e evolução de jogadores           |
-| **Regras de negócio**     | Elegibilidade de torneios, tiers, premiações, drops e progressão de carreira       |
-| **Estado e persistência** | Saves versionados e armazenamento local da carreira                                |
-| **UX mobile-first**       | Interface desenhada para partidas rápidas e uso confortável em dispositivos móveis |
-| **Balanceamento**         | Probabilidades, atributos, desempenho, evolução e competitividade entre jogadores  |
+| Área | Aplicação no CLUTCH |
+|---|---|
+| **Simulação** | Resultados, temporadas, rankings, transferências e evolução de jogadores |
+| **Regras de negócio** | Elegibilidade de torneios, tiers, premiações, drops e progressão de carreira |
+| **Estado e persistência** | Saves versionados e armazenamento local da carreira |
+| **UX mobile-first** | Interface desenhada para partidas rápidas e uso confortável em dispositivos móveis |
+| **Balanceamento** | Probabilidades, atributos, desempenho, evolução e competitividade entre jogadores |
 
 ### Tecnologias do projeto
 
-`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `LocalStorage` · `Render`
+<div align="center">
+
+![React](https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-111827?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7)
+
+</div>
 
 O CLUTCH integra o portfólio de projetos da **ASGARD Tecnologia** e é desenvolvido
 como um projeto independente e **sem fins lucrativos**, criado como homenagem ao
@@ -208,7 +228,7 @@ permissões e proteção das informações internas do projeto.
 
 ### FlokiOdin
 
-_Identidade responsável pelas automações do ecossistema ODIN._
+*Identidade responsável pelas automações do ecossistema ODIN.*
 
 </div>
 
@@ -216,7 +236,7 @@ O **FlokiOdin**, chamado simplesmente de **Floki**, é o GitHub App responsável
 pela identidade e execução segura das principais automações do ODIN.
 
 Seu nome foi inspirado em Floki, o construtor de navios e navegador da série
-_Vikings_. Assim como o personagem construía embarcações e encontrava novos
+*Vikings*. Assim como o personagem construía embarcações e encontrava novos
 caminhos, o Floki conduz os fluxos de integração, versionamento e publicação do
 projeto.
 
@@ -258,7 +278,7 @@ Service Pack: odin-v1000.004
     srcset="https://raw.githubusercontent.com/GustavoPopper/GustavoPopper/output/jormungandr.svg"
   />
 
-<img
+  <img
     alt="Jörmungandr percorrendo as contribuições de Gustavo"
     src="https://raw.githubusercontent.com/GustavoPopper/GustavoPopper/output/jormungandr.svg"
   />
