@@ -8,7 +8,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1100&color=00FF22&center=true&vCenter=true&width=800&height=50&lines=%24+npm+run+life;Erro%3A+work-life+balance+nao+encontrado;%24+npm+install+coffee;Construindo+o+ODIN...;Funciona+na+minha+maquina;Deploy+na+sexta%3F+Nem+Odin+aprova."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1100&color=00FF22&center=true&vCenter=true&width=800&height=50&lines=%24+npm+run+life;Erro%3A+work-life+balance+nao+encontrado;%24+npm+install+coffee;Construindo+o+ODIN...;Desenvolvendo+o+CLUTCH...;Funciona+na+minha+maquina;Deploy+na+sexta%3F+Nem+Odin+aprova."
   alt="Terminal animado do desenvolvedor"
 />
 
@@ -27,12 +27,18 @@ Atualmente, estou ampliando minha atuação no desenvolvimento de aplicações w
 modernas, trabalhando com React, TypeScript, Node.js, PostgreSQL, Tailwind CSS,
 automação de processos e práticas de DevOps.
 
+Além da atuação profissional, desenvolvo produtos digitais e projetos autorais
+através da **ASGARD Tecnologia**, unindo engenharia de software, dados,
+automação e experiências interativas.
+
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🏅 Certificado ITIL® 4 Foundation
 - 🗄️ Experiência com Oracle SQL, PL/SQL e sistemas ERP
 - ⚙️ Atuação com incidentes, problemas e sustentação de sistemas
 - 📊 Interesse em indicadores, dados e inteligência operacional
 - 🚀 Criador e desenvolvedor do ecossistema ODIN
+- 🎮 Criador e desenvolvedor do CLUTCH
+- 🛡️ Desenvolvimento de produtos através da ASGARD Tecnologia
 
 ## Tecnologias e ferramentas
 
@@ -68,8 +74,9 @@ automação de processos e práticas de DevOps.
 | Desenvolvimento | React, TypeScript, JavaScript, Node.js, HTML e CSS |
 | Dados | Indicadores, dashboards, Excel, CSV e Power BI |
 | DevOps | Git, Pull Requests, CI/CD e GitHub Actions |
+| Produtos digitais | Arquitetura de aplicações, simulação, regras de negócio e experiência mobile-first |
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### ⚡ ODIN — Inteligência operacional
 
@@ -116,6 +123,55 @@ Fonte de dados → Conjunto de dados → Regra de cálculo → Indicador → Vis
 O ODIN faz parte do ecossistema da **ASGARD Tecnologia**.
 
 [Conhecer o ODIN](https://github.com/GustavoPopper/ODIN)
+
+---
+
+### 🎯 CLUTCH — Simulador de carreira no Counter-Strike
+
+O **CLUTCH** é um game de simulação de carreira inspirado no cenário competitivo
+de Counter-Strike. O projeto permite criar um jogador e construir sua trajetória
+do início da carreira até a elite mundial, passando por organizações,
+transferências, campeonatos, evolução individual e premiações.
+
+O projeto nasceu da combinação entre desenvolvimento web, modelagem de regras de
+negócio e paixão por esports, funcionando também como laboratório para sistemas
+de simulação, balanceamento, persistência local e experiências mobile-first.
+
+### Principais recursos
+
+- criação, evolução e persistência de carreiras no navegador;
+- sistema de habilidades, potencial, funções competitivas e diferenciais;
+- equipes e elencos baseados no cenário competitivo;
+- ranking mundial e movimentação dinâmica entre tiers;
+- sistema de transferências entre organizações;
+- calendário anual com torneios Tier D, C, B, A e S;
+- circuitos RMR e Major;
+- partidas simuladas e acompanhamento de séries competitivas;
+- evolução do jogador conforme idade, desempenho e experiência;
+- títulos, troféus, MVPs e premiação anual Top 20;
+- notícias, acontecimentos e evolução contínua do cenário;
+- inventário e sistema de caixas conquistadas através de campeonatos;
+- interface responsiva com foco principal em dispositivos móveis.
+
+### Conceitos trabalhados no projeto
+
+| Área | Aplicação no CLUTCH |
+|---|---|
+| **Simulação** | Resultados, temporadas, rankings, transferências e evolução de jogadores |
+| **Regras de negócio** | Elegibilidade de torneios, tiers, premiações, drops e progressão de carreira |
+| **Estado e persistência** | Saves versionados e armazenamento local da carreira |
+| **UX mobile-first** | Interface desenhada para partidas rápidas e uso confortável em dispositivos móveis |
+| **Balanceamento** | Probabilidades, atributos, desempenho, evolução e competitividade entre jogadores |
+
+### Tecnologias do projeto
+
+`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `LocalStorage` · `Render`
+
+O CLUTCH integra o portfólio de projetos da **ASGARD Tecnologia** e é desenvolvido
+como um projeto independente e **sem fins lucrativos**, criado como homenagem ao
+Counter-Strike e à sua comunidade.
+
+[Conhecer o CLUTCH](https://github.com/GustavoPopper/clutch)
 
 ## 🐿️ Ratatoskr — O mensageiro do ODIN
 
